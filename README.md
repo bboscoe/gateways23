@@ -13,6 +13,7 @@ Project
 Bernie Boscoe, PhD
 
 Assistant Professor, Computer Science, Southern Oregon University
+
 <boscoeb@sou.edu> 
 
 ![Elbakary](images/elbakary.png)
