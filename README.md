@@ -19,6 +19,7 @@ Assistant Professor, Computer Science, Southern Oregon University
 ![Elbakary](images/elbakary.png)
 
 HPC/Gateways Mentor
+
 Mohamed Elbakary, PhD
 
 Associate Professor of  Electrical and Computer Engineering
@@ -33,6 +34,7 @@ HPC/Gateways Mentor
 Veronica Vergara
 
 Oak Ridge National Laboratory
+
 <vergaravg@ornl.gov> 
 
 
